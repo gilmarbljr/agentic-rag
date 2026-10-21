@@ -6,3 +6,4 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints/
 .env
+desktop.ini
